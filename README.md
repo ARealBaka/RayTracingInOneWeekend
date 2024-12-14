@@ -19,3 +19,5 @@ move the camera to another position:
 ![image](https://github.com/user-attachments/assets/f860d531-400a-4427-9165-c30d56161b90)
 
 final image:
+![image](https://github.com/user-attachments/assets/8b3444dc-b5d7-4ddd-855b-bbddf580c74d)
+
